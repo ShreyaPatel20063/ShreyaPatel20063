@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShreyaPatel20063
 - 👀 I’m interested in exploring different Backend technologies.
-- 🌱 I’m currently learning Backend Development.
+- 🌱 I’m currently learning MERN stack and AWS Solutions Architect Associate.
 - 💞️ I’m looking to collaborate on different Backend Projects working with different tech-stack
 
 <!---
